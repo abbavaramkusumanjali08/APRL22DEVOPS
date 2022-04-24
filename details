@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "THIS INFORMATION GIVES THE DATA ABOUT DEVOPS"
+echo hostname
+
